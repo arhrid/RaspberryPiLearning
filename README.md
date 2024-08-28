@@ -1,4 +1,4 @@
-# RaspberryPiLearning
+# RaspberryPiBMS
 Project involving temperature &amp; humidity sensor, LCD, LEDs, pushbuttons, and PIR sensor
 
 Acknowledgements:
