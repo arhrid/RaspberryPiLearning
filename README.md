@@ -5,7 +5,7 @@ Acknowledgements:
 Used CharLCD module from [LCD Tutorial](https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/blob/master/Code/Python_GPIOZero_Code/20.1.1_I2CLCD1602/LCD1602.py) 
 
 # Copyright
-All the files in this repository are released under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.).
+All the files in this repository are released under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/#ref-appropriate-credit).
 
 CC BY-NC-SA
 
